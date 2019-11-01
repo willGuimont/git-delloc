@@ -1,5 +1,5 @@
 # git-delloc
-Delete unsuded local branchs
+Delete unused local branchs
 # Installation
 
 1. `mkdir ~/bin`
